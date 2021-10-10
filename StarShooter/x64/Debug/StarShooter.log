@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  main.cpp
+c:\users\16479\source\repos\starshooter\starshooter\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  StarShooter.vcxproj -> C:\Users\16479\source\repos\StarShooter\x64\Debug\StarShooter.exe
